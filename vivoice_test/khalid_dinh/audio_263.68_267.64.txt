@@ -1,0 +1,1 @@
+Và cái máy ảo thực sự sẵn sàng nếu như nó chuyển trạng thái thành running.

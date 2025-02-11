@@ -1,0 +1,1 @@
+Và từ đó chúng ta có thể đưa ra một cái kết luận, đấy là lựa chọn cái giao thức cho API nó sẽ phụ thuộc vào cái yêu cầu của phân mềm.

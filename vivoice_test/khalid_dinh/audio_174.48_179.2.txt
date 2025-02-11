@@ -1,0 +1,1 @@
+Vậy thì để mà hai khối phân mềm có thể giao tiếp được với nhau thì chúng cần phải có một cái chuẩn giao thức chung.

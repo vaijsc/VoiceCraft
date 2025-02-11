@@ -1,0 +1,1 @@
+Ngoài ra thì API nó cũng thể hiện cái giao tiếp giữa các cái khối phần mềm với nhau.

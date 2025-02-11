@@ -1,0 +1,6 @@
+WARN  2024-10-04T14:55:03.662 876922 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1
+WARN  2024-10-04T14:58:18.678 880473 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1
+WARN  2024-10-04T15:03:08.455 885733 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1
+WARN  2024-10-04T15:05:30.712 887625 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1
+WARN  2024-10-04T15:16:54.836 896617 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1
+WARN  2024-10-04T15:22:56.200 901195 log_path_init:95: Failed to create directory /home/minhld12/.cache for writing logs: Unknown system error 1

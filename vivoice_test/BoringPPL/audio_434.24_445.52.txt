@@ -1,0 +1,1 @@
+Chỉ cho đến khi mình nhập đúng password là boring people, lúc này máy tính xét điều kiện if trả về true nên máy tính thực thi mệnh đề if và vì trong mệnh đề if có câu lệnh break nên vòng lập y bị dừng tại đây.

@@ -1,0 +1,1 @@
+Ngoài sử dụng phép toán tử số học, chúng ta còn có thể sử dụng phép so sánh, hay còn gọi là phép toán tử quan hệ, lên hai giá trị trong Python, để so sánh liệu chúng có bằng nhau, khác nhau, bé hơn, lớn hơn, bé hơn bằng, hoặc lớn hơn bằng.

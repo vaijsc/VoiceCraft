@@ -1,0 +1,1 @@
+Thì chúng ta cần dùng html, css và javascript để làm 1 cái rất đơn giản đó là viếu này, bấm vào nó sẽ tinh tinh, tinh tinh, có tiếng nữa thấy chưa? Thả ra nó sẽ bỏ chữ bỏ tay ra.

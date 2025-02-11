@@ -1,0 +1,1 @@
+Nói tóm lại thì trong một dự án, Git workflow nó giống như một mạch máu trong cơ thể người.

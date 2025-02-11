@@ -1,0 +1,1 @@
+Nhìn chung thì mình sẽ đánh giá hardware load balancer nó có độ tin cậy cao hơn.

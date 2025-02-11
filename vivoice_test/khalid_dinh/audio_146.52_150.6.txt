@@ -1,0 +1,1 @@
+Và trên hết nó là open source và được viết bằng Java, nên vừa miễn phí mà lại vừa chạy ổn định.

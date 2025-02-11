@@ -1,0 +1,1 @@
+Tuy nhiên, lỡ như nó không ở đúng thư mục này, bạn có thể chuyển hướng terminal bằng cách sử dụng lệnh cd, viết tắt của change directory, nghĩa là thay đổi thư mục, và thêm đường dẫn đến thư mục bạn muốn chuyển hướng.

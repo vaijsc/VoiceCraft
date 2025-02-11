@@ -1,0 +1,1 @@
+Trường hợp module và chương trình nằm ở khác thư mục, bạn có thể import một thư viện tên là sys, và dùng cú pháp sys.path.append, rồi truyền vào tham số là đường dẫn đến thư mục chứa module bạn muốn import.

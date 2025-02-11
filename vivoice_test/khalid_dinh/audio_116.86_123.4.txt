@@ -1,0 +1,1 @@
+Để làm được việc này thì cần một công cụ tự động kiểm tra các cái sự thay đổi của code ở trên VCS, và cái công cụ này được gọi là CI Server.

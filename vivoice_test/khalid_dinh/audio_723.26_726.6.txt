@@ -1,0 +1,1 @@
+Và hiển thị chúng thành công lên trên các cái sơ đồ, các cái graph.

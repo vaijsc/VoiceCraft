@@ -1,0 +1,1 @@
+Từ cao không có nghĩa là ngôn ngữ này cao cấp hơn ngôn ngữ lập trình bật thấp như là C++, mà điều này nghĩa là các lệnh của nó rất gần ngôn ngữ của con người, trong khi các lệnh của ngôn ngữ bật thấp sẽ có câu lệnh rất gần với ngôn ngữ máy.

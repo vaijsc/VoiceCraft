@@ -1,0 +1,1 @@
+Và trên các con server này nó sẽ sử dụng cái public key đã được cung cấp sẵn từ trước để giải mã.

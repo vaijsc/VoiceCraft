@@ -1,0 +1,1 @@
+Thì mình sẽ giới thiệu những cái lỗi này, kèm ví dụ và cách giải quyết luôn, bạn nào hay mắc phải thì các bạn xem kỹ và sau này coi code mình có bị như thế không, các bạn sửa lại là được, không có gì khó đâu.

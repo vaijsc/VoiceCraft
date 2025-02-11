@@ -1,0 +1,1 @@
+Đầu tiên thì mình sẽ tạo ra các cái request để thêm và list user trên 2 con máy ảo.

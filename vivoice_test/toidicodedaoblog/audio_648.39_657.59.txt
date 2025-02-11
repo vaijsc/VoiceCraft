@@ -1,0 +1,1 @@
+Thì mình sẽ để bên này là div nè. Rồi mình sẽ tạo 2 cái column. Ok cái gì thì bên này sẽ là 1 cái title là hành động.

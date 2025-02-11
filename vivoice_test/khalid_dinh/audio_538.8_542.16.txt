@@ -1,0 +1,1 @@
+Ok để minh hoạ thì bây giờ mình sẽ triển khai demo một ứng dụng microservice.

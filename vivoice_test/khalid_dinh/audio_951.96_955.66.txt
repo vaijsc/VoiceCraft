@@ -1,0 +1,1 @@
+Thì như các bạn có thể thấy rằng là dữ liệu của 2 user đã được hiển thị thành công.

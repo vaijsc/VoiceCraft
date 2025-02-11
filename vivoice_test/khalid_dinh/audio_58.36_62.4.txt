@@ -1,0 +1,1 @@
+Luồng xử lý các cái pull request, các cái conflict hay là các cái feedback cũng khác nhau.

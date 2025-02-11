@@ -1,0 +1,1 @@
+Thứ hai là CICD, điển hình, đấy là zenkey, gitlab CI, bamboo, circle CI.

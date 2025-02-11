@@ -1,0 +1,1 @@
+Ví dụ như các cái khối bị lập đi lập lại, đắp ly kết hay những cái câu lệnh if-el mà quá dài.

@@ -1,0 +1,19 @@
+loading custom model at experiments/big/e830M_ft_mixed_4cb_5k_hours_max_tok_25k_grad_50_lr_5e-5/best_bundle.pth
+done
+21
+processing speaker 0: test_set_5k/vin27-hau-giang_3616954.json
+speaker: vin27-hau-giang_3616954
+prompt audio: {'segment_id': 'hau-giang_3616954_125', 'path': '/lustre/scratch/client/vinai/users/linhnt140/zero-shot-tts/preprocess_audio/vin27_16k/hau-giang/3616954/125.wav', 'duration': 4.896, 'transcript': 'Tuy nhiên sau đó anh đã trở lại Hồng Kông khi mẹ anh từ bỏ ý định di cư sang Mĩ', 'dialect': 'south'}
+file being processed: /lustre/scratch/client/vinai/users/thivt1/code/VoiceCraft/vin27_testset/hau-giang/3616954/125.wav
+mfa align path: test_set_final_results/vin27-hau-giang_3616954/audio_prompt/125.csv
+max silence duration: 0.2599999999999998
+silence position: (2.35, 2.61)
+that corresponds to word kông and khi
+at line 9
+cut off sec: 2.48
+cut off sec: 2.6766666666666667
+cut off word index: 10
+target_fn: 072
+target_data: {'segment_id': 'hau-giang_3616954_072', 'path': '/lustre/scratch/client/vinai/users/linhnt140/zero-shot-tts/preprocess_audio/vin27_16k/hau-giang/3616954/072.wav', 'duration': 4.224, 'transcript': 'Hãy suy nghĩ về những gì bạn muốn làm và làm thế nào phù hợp với bạn', 'dialect': 'south'}
+concat target_transcript: Tuy nhiên sau đó anh đã trở lại Hồng Kông khi Hãy suy nghĩ về những gì bạn muốn làm và làm thế nào phù hợp với bạn
+phn_seq: ['t', '̪', 'w', 'i', '_', 'ɲ', 'iɛ', 'n', '_', 's', 'a', 'w', '_', 'ɗ', 'ɔɜ', '_', 'e', 'ɲ', '_', 'ɗ', 'aː5', '_', 'tʃ', 'əː4', '_', 'l', 'aː6', 'j', '_', 'h', 'o2', 'ŋ', '_', 'k', 'o', 'ŋ', '_', 'x', 'i', '_', 'h', 'a5', 'j', '_', 's', 'w', 'i', '_', 'ŋ', 'i5', '_', 'v', 'e2', '_', 'ɲ', 'y5', 'ŋ', '_', 'z', 'i2', '_', 'b', 'aː6', 'n', '_', 'm', 'uəɜ', 'n', '_', 'l', 'aː2', 'm', '_', 'v', 'aː2', '_', 'l', 'aː2', 'm', '_', 't', 'eɜ', '_', 'n', 'aː2', 'w', '_', 'f', 'u2', '_', 'h', 'əː6', 'p', '_', 'v', 'əːɜ', 'j', '_', 'b', 'aː6', 'n']

@@ -1,0 +1,1 @@
+Lý do mình đề cập vấn đề này là vì quên khởi tạo biến là một trong những lỗi rất phổ biến khi mới học đập trình, nên mình muốn nhấn mạnh một chuyện là nếu chúng ta dùng biến trong điều kiện, các biến mà ta sử dụng còn phải được định nghĩa trước.
